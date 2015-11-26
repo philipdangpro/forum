@@ -1,3 +1,4 @@
 <?php include('includes/top.php'); ?>
-contenu de la page index
+contenu la page index
+<!-- commentaire d'addition -->
 <?php include('includes/bottom.php'); ?>
