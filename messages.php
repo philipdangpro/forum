@@ -9,6 +9,7 @@
 			<th>message</th>
 		</tr>
 	</thead>
+	<h1>Création d'une nouvelle branche GIT</h1>
 	<tbody>
 		<?=build_html_messages(include('data/messages.php'));?>
 	</tbody>
